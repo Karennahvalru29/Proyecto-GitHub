@@ -9,17 +9,11 @@ Karen Nahir Valdivia Rubelt
 
 Rol: Investigación sobre las funcionalidades principales de Figma
 
-Contribuciones: Breve descripción de las contribucione
+Contribuciones: Cree el repositorio y añadi a mi compañera como colaboradora.
 
 Nombre del Miembro 2
 
 Rol: Investigación sobre los casos de uso de Figma
-
-Contribuciones: Breve descripción de las contribuciones
-
-Nombre del Miembro 3 (si aplica)
-
-Rol: Investigación sobre recursos y tutoriales para aprender Figma
 
 Contribuciones: Breve descripción de las contribuciones
 
@@ -50,7 +44,3 @@ Estas funcionalidades hacen de Figma una herramienta versátil para diseñadores
 Casos de Uso de Figma
 
 (Aquí el miembro 2 debe agregar información sobre los casos de uso de Figma en diseño y prototipado)
-
-Recursos y Tutoriales para Aprender Figma
-
-(Aquí el miembro 3 debe agregar información sobre recursos y tutoriales para aprender Figma)
