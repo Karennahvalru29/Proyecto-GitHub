@@ -11,11 +11,13 @@ Rol: Investigación sobre las funcionalidades principales de Figma
 
 Contribuciones: Cree el repositorio y añadi a mi compañera como colaboradora.
 
-Nombre del Miembro 2
 Estrada Bianca Morena 
+
 Rol: Investigación sobre los casos de uso de Figma
+
 Figma se refiere al análisis de cómo se utiliza esta herramienta de diseño colaborativo en diferentes contextos.
 Figma permite a los diseñadores crear interfaces de usuario, prototipos y colaborar en tiempo real
+
 Contribuciones: Breve descripción de las contribuciones
 se refiere a un resumen de los aportes o logros significativos realizados en un determinado campo o proyecto. 
 Funcionalidades Principales de Figma
@@ -24,8 +26,6 @@ facilitando la colaboración y el feedback instantáneo
 Prototipado interactivo: Los diseñadores pueden crear prototipos navegables para simular la experiencia del
 usuario, lo que ayuda a visualizar y probar flujos de trabajo.
 Componentes reutilizables: Permite crear y gestionar bibliotecas de componentes, asegurando la coherencia en el diseño y facilitando su reutilización en diferentes proyectos
-
-
 
 Figma es una herramienta de diseño colaborativo muy popular que ofrece varias funcionalidades principales:
 
@@ -48,7 +48,3 @@ Control de Versiones: Permite ver el historial de cambios y revertir versiones a
 Exportación y Compartición: Puedes exportar tus diseños en varios formatos y compartirlos fácilmente con otros miembros del equipo o clientes.
 
 Estas funcionalidades hacen de Figma una herramienta versátil para diseñadores, desde la creación de interfaces de usuario hasta la colaboración en proyectos de diseño.
-
-Casos de Uso de Figma
-
-(Aquí el miembro 2 debe agregar información sobre los casos de uso de Figma en diseño y prototipado)
